@@ -6,6 +6,7 @@ Repositório para implementação do trabalho 1 da disciplina de Técnicas de pr
 | 190026600 | Davi Marinho  |
 | 180105256 | Lucas Andrade |
 | 190055201 | Matheus Pinheiro   |
+| 140154671 | Mar Dantas    |
 | 180011308 | Peniel Etèmana |
 | 180078640 | Yuri Alves |
 
